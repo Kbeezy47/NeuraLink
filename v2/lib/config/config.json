@@ -1,0 +1,14 @@
+{
+    "show_fov_box": false,
+    "fov": 400,
+    "aim_height": 60,
+    "lock_radius_px": 5,
+    "track_tolerance_px": 15,
+    "kp": 0.1,
+    "ki": 0,
+    "kd": 0,
+    "xy_sens": 12,
+    "targeting_sens": 1,
+    "game": "mw2",
+    "model_size": "s"
+}

@@ -1,0 +1,12 @@
+{
+    "show_fov_box": false,
+    "fov": 400,
+    "aim_height": 55,
+    "lock_radius_px": 1,
+    "track_tolerance_px": 15,
+    "kp": 0.5,
+    "ki": 0.01,
+    "kd": 0.01,
+    "xy_sens": 12.75,
+    "targeting_sens": 0.85
+}
